@@ -1,0 +1,18 @@
+h1 {
+    font-weight: bold;
+    color: red;
+    background-color: green;
+    font-size: 40px;
+    text-align: center;
+}
+
+p {
+    height: 500px;
+    width: auto;
+    text-align: center;
+}
+
+button {
+    background-color: lightgreen;
+    font-size: large;
+}
